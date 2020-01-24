@@ -1,0 +1,106 @@
+
+
+class: center, middle, remark-inverse
+
+# 6. Análisis ético
+
+
+---
+# Conceptos básicos
+
+### - Responsabilidad
+### - Rendición de cuentas
+### - Responsabilidad legal
+### - “Debido proceso”
+
+---
+# Pasos en el análisis ético
+
+<table class="tablabase">
+
+<tr><td style="text-align:left; background-color:rgba(71,71,71,0.9);color:white">1. Identificar los hechos</td><td>Quién hace qué, cuándo y cómo</td></tr>
+
+<tr><td style="text-align:left; background-color:rgba(71,71,71,0.9);color:white">2. Definir dilema y valores involucrados</td><td>Cuáles son los valores en conflicto</td></tr>
+
+<tr><td style="text-align:left; background-color:rgba(71,71,71,0.9);color:white">3. Identificar participantes</td><td>Qué grupos y qué demandan</td></tr>
+<tr><td style="text-align:left; background-color:rgba(71,71,71,0.9);color:white">4. Opciones posibles</td><td>Qué posibilidades razonables existen</td></tr>
+<tr><td style="text-align:left; background-color:rgba(71,71,71,0.9);color:white">5. Consecuencias</td><td>Consecuencias potenciales de las opciones</td></tr>
+</table>
+
+Ejemplo: [Facebook y Cambridge Anaytica](https://www.xataka.com/legislacion-y-derechos/que-ha-pasado-con-facebook-del-caso-cambridge-analytica-al-resto-de-polemicas-mas-recientes)
+
+
+---
+# Reglas de análisis
+
+<table class="tablabase">
+
+<tr><td style="text-align:left;">1. Regla <b>dorada</b></td><td><em>"Trata a los demás como te gustaría que te trataran a ti"</em></td></tr>
+<tr><td style="text-align:left;">2. Imperativo Categórico de <b>Kant</b></td><td><em>"Si una acción no es correcta para todos, no es correcta para nadie"</em></td></tr>
+<tr><td style="text-align:left;">3. Regla del cambio de <b>Descartes</b></td><td><em>"Si una acción no se puede hacer repetidamente, no se debe hacer de ningún modo"</em></td></tr>
+<tr><td style="text-align:left;">4. Principio <b>Utilitarista</b></td><td><em>"Lo correcto es tomar la acción con el valor agregado mayor"</em></td></tr>
+<tr><td style="text-align:left;">5. Principio de <b>Aversión al Riesgo</b></td><td><em>"Lo correcto es tomar la acción que produzca el menor daño o con el menor daño potencial"</em></td></tr>
+<tr><td style="text-align:left;">6. Principio de <b>"no hay comida gratis"</b></td><td><em>"Suponer que todos los bienes tangibles o intangibles le pertenecen a alguien más"</em></td></tr>
+
+</table>
+
+---
+
+# Otras Reglas: Asociaciones profesionales. ESOMAR
+
+
+- Actuar conforme a la **legalidad local**.
+- No perjudicar la **reputación** de la investigación de mercados.
+- Aplicar una conducta ética especialmente cuidadosa cuando trabajen con **niños y adolescentes**.
+- Respetar los **derechos** de los entrevistados.
+- Velar porque nunca se utilicen con **fines distintos** los datos recogidos para una investigación.
+- Asegurar la **honradez, profesionalidad, transparencia y objetividad** de los trabajos realizados.
+- Actuar con acuerdo a la **libre competencia**.
+
+[ESOMAR](https://www.esomar.org/uploads/public/knowledge-and-standards/codes-and-guidelines/ICCESOMAR_Code_Spanish_.pdf)
+
+---
+
+# Otras Reglas: Asociaciones profesionales. Computers Ethics Institute
+
+
+- I. No usarás una computadora para **dañar** a otras personas  
+- II. No **interferirás** con el de trabajo en computadora de otras personas  
+- III. No te inmiscuirás en los **archivos informáticos** de otras personas  
+- IV. No usarás una computadora para **robar**  
+- V. No utilizarás un ordenador para dar **falso testimonio**  
+- VI. No copiarás o utilizarás **software registrado** por el que no hayas pagado  
+- VII. No utilizarás los recursos informáticos de otras personas **sin autorización** o compensación adecuada  
+- VIII. No te apropiarás de la **producción intelectual** de otras personas   
+- IX  Piensa en las consecuencias **sociales** del programa que estés escribiendo o del sistema que estés diseñando  
+- X. Utiliza una computadora de manera que se garantice siempre la **consideración y el respeto** para tus semejantes  
+
+[CPSR](http://cpsr.org/issues/ethics/cei/)
+
+---
+
+# Otras reglas (i)
+
+- Cada vez más las organizaciones desarrollan sus popios códigos éticos, como parte de sus políticas RSC y también en parte como consecuencia de los programas de *compliance*.
+
+- Ejemplo [Inditex](https://www.inditex.com/documents/10279/241584/C%C3%B3digo+de+Conducta+y+Pr%C3%A1cticas+Responsables/c74a0a88-e824-4e18-97fd-06fd2753570c): Principios generales: 
+
+  - Todas las operaciones de Inditex se desarrollarán bajo un prisma ético y responsable.
+  - El cumplimiento de la legislación vigente en cada país es presupuesto necesario del presente Código.  
+  - El comportamiento de los empleados de Inditex se ajustará al espíritu y a la letra de este Código de Conducta y Prácticas Responsables.  
+  - Todas las personas, físicas y jurídicas, que mantengan de forma directa o indirecta cualquier relación laboral, económica, social y/o industrial con Inditex, recibirán un trato justo y digno.  
+  - Todas las actividades de Inditex se realizarán de la manera más respetuosa con el medioambiente, favoreciendo la conservación de la biodiversidad y la gestión sostenible de los recursos naturales.  
+  
+---
+class: middle
+
+# Secciones
+
+### 2.1 Introducción
+### 2.2 Derechos y obligaciones de **información**: Datos personales y privacidad
+### 2.3 Derechos y obligaciones de **calidad del sistema**: Seguridad, rendición de cuentas y control
+### 2.4 Derechos y obligaciones de **propiedad**: Propiedad intelectual
+### 2.5 Impacto **social** y calidad de vida
+### 2.6 **Análisis ético**
+
+  

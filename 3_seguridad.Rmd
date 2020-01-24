@@ -1,0 +1,105 @@
+
+
+class: center, middle, remark-inverse
+
+# 3. Derechos y obligaciones de calidad del sistema: seguridad, rendición de cuentas y control
+
+
+---
+# Responsabilidad legal de las personas jurídicas
+
+.pull-left[
+
+- Ley Orgánica 1/**2015** de Responsabilidad Penal de las Personas Jurídicas
+- No solo los individuos sino también las personas jurídicas tienen responsabilidad
+- Funciones indelegables
+- Obligación de prevención: programas de *compliance*
+- Delitos del ámbito empresarial
+
+]
+
+.pull-right[
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="90%"}
+
+knitr::include_graphics("images/compliance.png")
+```
+
+[Ejemplos](http://rgpdblog.com/irrumpen-dos-nuevas-sentencias-en-el-top-10-por-responsabilidad-penal-de-las-personas-juridicas/)
+
+]
+
+
+---
+# Áreas que presentan retos en seguridad
+
+.pull-left[
+
+### - Gestión de acceso y la identidad
+
+### - Puesto de trabajo, aplicaciones y datos
+
+### - Sistemas y en la red
+
+]
+
+.pull-right[
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="90%"}
+
+knitr::include_graphics("images/hacker.jpg")
+```
+
+[Biggest Data Breaches](https://www.informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/)
+
+]
+
+
+
+
+---
+# Gestión de acceso y la identidad
+
+### Problemas de seguridad que se producen por suplantación de identidad y/o robo de credenciales de acceso al sistema.
+
+### Para minimizar los riesgos en la gestión de acceso a la información se debe:
+
+- Realizar auditorías periódicas de riesgos técnicos, análisis de vulnerabilidades, auditoría de contraseñas, de sistemas y de ficheros.
+
+- Establecer sistemas seguros, fiables y actualizados de control de acceso y autentificación, certificados digitales, firma electrónica
+
+- Establecer sistemas para el cumplimiento de los requisitos legales al respecto: borrado de información, requisitos para el acceso, destrucción documental segura
+
+---
+# Puesto de trabajo, aplicaciones y datos
+
+### - Gestión de la información dentro de la organización y por las personas que trabajan en ella, a través del manejo de aplicaciones y datos.
+
+### - Necesario incorporar: 
+
+- Herramientas antifraude: anti-phising, anti-spam...
+- Herramientas anti-malware: anti-virus, anti-adware y anti-spyware
+- Sistemas de gestión de la seguridad de la información (SGSI)
+- Herramientas de contingencia y seguridad
+- Herramientas de seguridad en dispositivos móviles
+
+---
+# Sistemas y red
+
+### - Necesario incorporar:
+
+- Inteligencia de seguridad: establecer la política que permita la monitorización y el establecimiento de informes periódicos de eventos sensibles en cuanto a seguridad en el sistema.
+- Prevención de posibilidades de fuga de contenidos: sistemas de cifrado de información, gestión del ciclo de vida de la información, control de contenidos confidenciales.
+- Protección de las comunicaciones: cortafuegos, VPN, gestión y control de ancho de banda, seguridad en redes inalámbricas.
+
+
+---
+# Dos preguntas importantes
+
+### - ¿Cuándo un sistema es seguro? el software perfecto no existe
+
+### - ¿Quién es responsable cuando hay un fallo de software? bienes vs servicios, ¿qué se considera un fallo?
+
+- Ejemplo coche autónomo
+
+- [Inteligencia Artificial para Europa](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX%3A52018DC0237)

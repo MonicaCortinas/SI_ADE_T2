@@ -1,0 +1,95 @@
+---
+title: "Tema 2: Ética, seguridad y privacidad en los Sistemas de Información"
+subtitle: "ADE. 172821. Sistemas de Información"
+author: "Mónica Cortiñas"
+institute: "Universidad Pública de Navarra"
+date: "Curso 2019-2020 (actualizada: `r format(Sys.time(), '%d/%m/%Y')`)"
+output:
+  xaringan::moon_reader:
+    css: [default, styles/general.css, styles/xaringan.css, css/specific.css]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+
+```
+
+```{r, include = FALSE, eval = knitr::opts_knit$get("rmarkdown.pandoc.to") == "html"}
+# Enables Font Awesome in HTML based bookdown outputs.
+fa <- rmarkdown::html_dependency_font_awesome()
+htmltools::tagList(fa)
+```
+
+
+
+layout: true
+
+<div class="my-footer"><span>Sistemas de Información <u>Tema 2</u></span></div>
+
+
+---
+class: center, middle, remark-inverse 
+
+# Estructura
+
+---
+class: middle
+
+# Secciones
+
+### 2.1 Introducción
+### 2.2 Derechos y obligaciones de **información**: Datos personales y privacidad
+### 2.3 Derechos y obligaciones de **calidad del sistema**: Seguridad, rendición de cuentas y control
+### 2.4 Derechos y obligaciones de **propiedad**: Propiedad intelectual
+### 2.5 Impacto **social** y calidad de vida
+### 2.6 **Análisis ético**
+
+---
+class: middle
+
+## Objetivos de aprendizaje
+
+### 1.- Comprender los principales **dilemas éticos** ligados a los Sistemas de Información y los principios específicos para la conducta se pueden utilizar para guiar las decisiones éticas.
+
+### 2.- Entender por qué la tecnología de los SI e Internet imponen desafíos para la **protección de la privacidad y la propiedad intelectual**.
+
+### 3.- Entender la importancia de los aspectos de **seguridad** ligados a los sistemas de información.
+
+### 4.- Entender cómo afectan los sistemas de información a la **vida diaria de las personas** y cuál puede ser su impacto futuro.
+
+```{r child='1_intro.Rmd'}
+```
+
+---
+
+```{r child='2_personal.Rmd'}
+```
+---
+
+```{r child='3_seguridad.Rmd'}
+```
+---
+
+```{r child='4_copy.Rmd'}
+```
+---
+
+```{r child='5_social.Rmd'}
+```
+---
+
+```{r child='6_etica.Rmd'}
+```
+---
+
+```{r child='contact_mcortinas.Rmd'}
+```
+
+
+
+
