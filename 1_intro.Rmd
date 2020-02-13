@@ -60,7 +60,7 @@ knitr::include_graphics("images/youtube.jpg")
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="90%"}
 
-knitr::include_graphics("images/china.jpg")
+knitr::include_graphics("images/border.jpg")
 
 ```
 
@@ -68,9 +68,9 @@ knitr::include_graphics("images/china.jpg")
 
 .pull-right[
 
-## - Caso Bono social en China
+## - Caso Uso de Datos de Localización Móvil para refuerzo de frontera en EEUU
 
-[más info](https://www.wired.com/story/china-social-credit-score-system/)
+[más info](https://www.wsj.com/articles/federal-agencies-use-cellphone-location-data-for-immigration-enforcement-11581078600)
 
 ]
 
