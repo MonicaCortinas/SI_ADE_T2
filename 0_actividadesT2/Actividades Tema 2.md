@@ -11,6 +11,15 @@
 
 ## Otras actividades cortas
 
+- https://www.xataka.com/privacidad/me-das-tu-numero-telefono-probable-que-imagines-que-puedo-averiguar-ti
+
+- Revisión de privacidad en cuenta Google, Apple ID o Facebook/Instagram:
+
+  - Buscar los ajustes de privacidad y personalización:
+    - Hacer la revisión de privacidad: ¿Qué opciones de personalización están disponibles? (actividad en la web y aplicaciones, historial de ubicaciones, grabaciones de voz y audio, historial de youtube, ajustes de google fotos, encontrar el teléfono,  recomendaciones compartidas, anuncios más relevantes)
+    - Hacer la revisión de seguridad, acceso de terceros ¿Has detectado alguna aplicación que no recordabas?
+    - En el caso de Facebook y Google, especialmente relevante la búsqueda mediante número de teléfono
+
 - Tras el punto dos: 
 
   1. ¿qué aspectos de privacidad pueden estar relacionados con Instagram?¿cómo?
