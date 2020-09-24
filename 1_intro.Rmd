@@ -24,11 +24,12 @@ knitr::include_graphics("images/cambrigde.jpg")
 
 ## - Caso Facebook - Cambrige Analytica</b>
 
-[más info](https://elpais.com/tag/caso_cambridge_analytica/a)
+[Facebook y Cambridge Anaytica](https://www.xataka.com/legislacion-y-derechos/que-ha-pasado-con-facebook-del-caso-cambridge-analytica-al-resto-de-polemicas-mas-recientes)
 
 ]
 
 ---
+class:middle, center
 
 # Casos notorios de dilemas éticos asociados a sistemas de información (II)
 

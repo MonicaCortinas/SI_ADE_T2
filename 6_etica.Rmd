@@ -27,7 +27,7 @@ class: center, middle, remark-inverse
 <tr><td style="text-align:left; background-color:rgba(71,71,71,0.9);color:white">5. Consecuencias</td><td>Consecuencias potenciales de las opciones</td></tr>
 </table>
 
-Ejemplo: [Facebook y Cambridge Anaytica](https://www.xataka.com/legislacion-y-derechos/que-ha-pasado-con-facebook-del-caso-cambridge-analytica-al-resto-de-polemicas-mas-recientes)
+
 
 
 ---
@@ -94,13 +94,21 @@ Ejemplo: [Facebook y Cambridge Anaytica](https://www.xataka.com/legislacion-y-de
 ---
 class: middle
 
+<a href="https://b.socrative.com/teacher/" target="_blank">
+  <button class="btn btn-final">
+    <span class="buttoninner"><i class="fas fa-question-circle"></i> Test en Socrative</a> </span>
+  </button>
+</a>
+
 # Secciones
 
+https://www.mindomo.com/mindmap/3737b33456fc2f74a94ab56262e8afea
+
 ### 2.1 Introducción
-### 2.2 Derechos y obligaciones de **información**: Datos personales y privacidad
-### 2.3 Derechos y obligaciones de **calidad del sistema**: Seguridad, rendición de cuentas y control
-### 2.4 Derechos y obligaciones de **propiedad**: Propiedad intelectual
-### 2.5 Impacto **social** y calidad de vida
-### 2.6 **Análisis ético**
+### 2.2 Datos personales y privacidad
+### 2.3 Seguridad, rendición de cuentas y control
+### 2.4 Propiedad intelectual
+### 2.5 Impacto social y calidad de vida
+### 2.6 Análisis ético
 
   

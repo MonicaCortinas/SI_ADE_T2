@@ -6,6 +6,7 @@ class: center, middle, remark-inverse
 
 
 ---
+
 # Otras áreas importantes
 
 ### - Balance de poder consumidores/empresas/plataformas
@@ -15,6 +16,7 @@ class: center, middle, remark-inverse
 ### - El impacto en empleo con los cambios en las demandas profesionales
 
 ---
+
 # Balance de poder consumidores/empresas/plataformas
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="90%"}
@@ -25,6 +27,7 @@ knitr::include_graphics("images/grandes.png")
 [Ejemplo INE](https://www.eleconomista.es/economia/noticias/10167522/10/19/El-INE-usara-los-movimientos-de-nuestros-telefonos-moviles-para-elaborar-un-nuevo-estudio.html)
 
 ---
+
 # Velocidad del cambio y necesidad de adaptación continua
 
 .pull-left[
@@ -49,6 +52,7 @@ knitr::include_graphics("images/brecha.png")
 ]
 
 ---
+
 # Límites difusos entre vida familiar/profesional
 
 ### - Derecho a la desconexión digital - LOPD
@@ -71,6 +75,7 @@ knitr::include_graphics("images/panic.jpg")
 ```
 
 ---
+
 # Impacto en empleo. Ejemplos:
 
 .pull-left[

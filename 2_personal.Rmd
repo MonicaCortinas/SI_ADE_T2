@@ -2,7 +2,7 @@
 
 class: center, middle, remark-inverse
 
-# 2. Derechos y obligaciones de información: Datos personales y privacidad 
+# 2. Datos personales y privacidad 
 
 ---
 class: middle, center
@@ -44,6 +44,7 @@ knitr::include_graphics("images/vapalistening.png")
 ```
 
 ---
+
 # El papel de las AAPP en este conflicto
 
 ## Papel más activo del legislador en Europa que en EEUU
@@ -57,6 +58,7 @@ knitr::include_graphics("images/vapalistening.png")
 - persona física identificable es toda aquella persona cuya identidad pueda **determinarse** directa o **indirectamente**.
 
 ---
+
 # Datos especialmente protegidos en la GDPR
 
 .pull-left[
@@ -79,6 +81,7 @@ knitr::include_graphics("images/data.jpg")
 ]
 
 ---
+
 # Aspectos más relevantes
 
 
@@ -108,33 +111,6 @@ knitr::include_graphics("images/googledata.png")
 
 ---
 
-# Información sobre cookies
-
-.pull-left[
-
-### Cookies técnicas
-
-### Cookies de personalización
-
-### Cookies de análisis
-
-### Cookies de terceros
-
-]
-
-.pull-right[
-
-```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="90%"}
-
-knitr::include_graphics("images/cookies3.png")
-
-```
-
-]
-
----
-
-
 # La Agencia Española de Protección de Datos
 
 
@@ -160,3 +136,32 @@ https://www.aepd.es/
 - Servicios a empresas: Asesoría en la aplicación: Programa Facilita 2.0
 
 ]
+
+---
+
+# La privacidad y las cookies
+
+.pull-left[
+
+### - Cookies técnicas
+
+### - Cookies de personalización
+
+### - Cookies de análisis
+
+### - Cookies de terceros
+
+### Los sistemas VPN (redes privadas virtuales)
+
+]
+
+.pull-right[
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="90%"}
+
+knitr::include_graphics("images/cookies3.png")
+
+```
+
+]
+

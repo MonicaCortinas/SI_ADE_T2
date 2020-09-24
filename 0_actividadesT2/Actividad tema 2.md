@@ -4,7 +4,7 @@ Ejemplo: https://www.xataka.com/privacidad/me-das-tu-numero-telefono-probable-qu
 
 Tarea: 
 
-- Busca tu número de teléfono en google u otros buscadores ¿aparece algún resultados?
+- Busca tu número de teléfono en google u otros buscadores ¿aparece algún resultado?
 
 Hacer la revisión de privacidad en tu cuenta Google o Apple ID (también puedes revisar las opciones de Facebook y otras que se mencionan en el texto)
 

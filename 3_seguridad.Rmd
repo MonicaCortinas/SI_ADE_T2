@@ -2,10 +2,11 @@
 
 class: center, middle, remark-inverse
 
-# 3. Derechos y obligaciones de calidad del sistema: seguridad, rendición de cuentas y control
+# 3. Seguridad, rendición de cuentas y control
 
 
 ---
+
 # Responsabilidad legal de las personas jurídicas
 
 .pull-left[
@@ -31,6 +32,7 @@ knitr::include_graphics("images/compliance.png")
 
 
 ---
+
 # Áreas que presentan retos en seguridad
 
 .pull-left[
@@ -58,6 +60,7 @@ knitr::include_graphics("images/hacker.jpg")
 
 
 ---
+
 # Gestión de acceso y la identidad
 
 ### Problemas de seguridad que se producen por suplantación de identidad y/o robo de credenciales de acceso al sistema.
@@ -71,6 +74,7 @@ knitr::include_graphics("images/hacker.jpg")
 - Establecer sistemas para el cumplimiento de los requisitos legales al respecto: borrado de información, requisitos para el acceso, destrucción documental segura
 
 ---
+
 # Puesto de trabajo, aplicaciones y datos
 
 ### - Gestión de la información dentro de la organización y por las personas que trabajan en ella, a través del manejo de aplicaciones y datos.
@@ -84,6 +88,7 @@ knitr::include_graphics("images/hacker.jpg")
 - Herramientas de seguridad en dispositivos móviles
 
 ---
+
 # Sistemas y red
 
 ### - Necesario incorporar:

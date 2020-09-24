@@ -3,7 +3,7 @@ title: "Tema 2: Ética, seguridad y privacidad en los Sistemas de Información"
 subtitle: "ADE. 172821. Sistemas de Información"
 author: "Mónica Cortiñas"
 institute: "Universidad Pública de Navarra"
-date: "Curso 2019-2020 (actualizada: `r format(Sys.time(), '%d/%m/%Y')`)"
+date: "Curso 2020-2021 (actualizada: `r format(Sys.time(), '%d/%m/%Y')`)"
 output:
   xaringan::moon_reader:
     css: [default, styles/general.css, styles/xaringan.css, css/specific.css]
@@ -31,6 +31,18 @@ layout: true
 
 <div class="my-footer"><span>Sistemas de Información <u>Tema 2</u></span></div>
 
+---
+class: middle
+
+## Objetivos de aprendizaje
+
+1. Identificar las **áreas críticas** que generan más conflictos éticos relacionados con los sistemas de gestión de información.   
+1. Comprender la relación entre **privacidad y servicio** y los conflictos que genera este dilema.  
+1. Distinguir las principales diferencias entre el **enfoque legal** europeo y americano en la protección de datos personales y poder citar los aspectos más relevantes de la GDRP y las funciones de la Agencia Española de Protección de Datos.  
+1. Identificar en qué medida son las empresas  **responsables de los daños** causados por sus sistemas y las áreas que son especialmente sensibles a estos daños.  
+1. Distinguir los distintos mecanismos de protección legal de la **propiedad intelectual** y sus ámbitos de aplicación.
+1. Reconocer cómo afectan los sistemas de información y las tecnologías de información a la **calidad de vida** de los ciudadanos generando dilemas éticos.  
+1. Entender las bases necesarias para realizar **análisis de dilemas éticos** y los distintos enfoques y esquemas que podemos utilizar para tomar decisiones en ámbitos "grises".  
 
 ---
 class: center, middle, remark-inverse 
@@ -43,24 +55,14 @@ class: middle
 # Secciones
 
 ### 2.1 Introducción
-### 2.2 Derechos y obligaciones de **información**: Datos personales y privacidad
-### 2.3 Derechos y obligaciones de **calidad del sistema**: Seguridad, rendición de cuentas y control
-### 2.4 Derechos y obligaciones de **propiedad**: Propiedad intelectual
-### 2.5 Impacto **social** y calidad de vida
-### 2.6 **Análisis ético**
+### 2.2 Datos personales y privacidad
+### 2.3 Seguridad, rendición de cuentas y control
+### 2.4 Propiedad intelectual
+### 2.5 Impacto social y calidad de vida
+### 2.6 Análisis ético
 
----
-class: middle
+https://www.mindomo.com/mindmap/3737b33456fc2f74a94ab56262e8afea
 
-## Objetivos de aprendizaje
-
-### 1.- Comprender los principales **dilemas éticos** ligados a los Sistemas de Información y los principios específicos para la conducta se pueden utilizar para guiar las decisiones éticas.
-
-### 2.- Entender por qué la tecnología de los SI e Internet imponen desafíos para la **protección de la privacidad y la propiedad intelectual**.
-
-### 3.- Entender la importancia de los aspectos de **seguridad** ligados a los sistemas de información.
-
-### 4.- Entender cómo afectan los sistemas de información a la **vida diaria de las personas** y cuál puede ser su impacto futuro.
 
 ```{r child='1_intro.Rmd'}
 ```

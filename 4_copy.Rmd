@@ -2,10 +2,11 @@
 
 class: center, middle, remark-inverse
 
-# 4. Derechos y obligaciones de propiedad: Propiedad intelectual
+# 4. Propiedad intelectual
 
 
 ---
+
 # Información digital
 
 
@@ -25,6 +26,7 @@ knitr::include_graphics("images/copia.jpg")
 ]
 
 ---
+
 # Tipos de protección
 
 ### - Secreto comercial
@@ -34,6 +36,7 @@ knitr::include_graphics("images/copia.jpg")
 ### - Propiedad Industrial
 
 ---
+
 # Secreto comercial
 
 .pull-left[
@@ -57,6 +60,7 @@ knitr::include_graphics("images/code.jpg")
 ]
 
 ---
+
 # Derechos de autor
 
 .pull-left[
